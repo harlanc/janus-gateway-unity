@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{0CB1F7BD-20BE-A6EC-A7EA-1AB895E823A1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/VideoBridgeController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Janus/Janus.cs" Line="32" Column="16" />
+      <File FileName="Assets/VideoBridgeController.cs" Line="60" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.testJanusAndroid PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
